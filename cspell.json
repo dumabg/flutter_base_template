@@ -1,0 +1,28 @@
+{
+    "version": "0.2",
+    "overrides": [
+        {
+            "filename": "lib/l10n/app_pt.arb",
+            "language": "pt_BR, en",
+            "words": []
+        },
+        {
+            "filename": "lib/l10n/app_es.arb",
+            "language": "es, en",
+            "words": []
+        },
+        {
+            "filename": "lib/l10n/app_en.arb",
+            "language": "en",
+            "words": []
+        }
+    ],
+    "ignorePaths": [
+        ".gitignore"
+    ],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [],
+    "import": []
+}
